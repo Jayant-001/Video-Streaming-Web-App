@@ -3,7 +3,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 import { logo } from "../utils/Constants";
-import {SearchBar} from './index'
+import { SearchBar } from "./index";
 
 const Navbar = () => {
     return (
@@ -22,7 +22,11 @@ const Navbar = () => {
                 <img src={logo} alt="Logo" height={45} />
             </Link>
             <SearchBar />
-            <Avatar sx={{display: {xs: 'none', sm: 'inline'}}} alt="Avatar" src="https://i.pravatar.cc/50" />
+            <Avatar
+                sx={{ display: { xs: "none", sm: "inline" } }}
+                alt="Avatar"
+                src="https://i.pravatar.cc/50"
+            />
         </Stack>
     );
 };
