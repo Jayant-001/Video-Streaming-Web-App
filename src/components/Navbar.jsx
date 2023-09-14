@@ -22,11 +22,14 @@ const Navbar = () => {
                 <img src={logo} alt="Logo" height={45} />
             </Link>
             <SearchBar />
+            <a href="https://jayant-gupta.vercel.app/" target="_blank" rel="noreferrer" title="Who am I?">
+
             <Avatar
                 sx={{ display: { xs: "none", sm: "inline" } }}
                 alt="Avatar"
                 src="https://i.pravatar.cc/50"
-            />
+                />
+                </a>
         </Stack>
     );
 };
