@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# Youtube clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Mera Box Banner](link-to-banner-image)
 
-## Available Scripts
+Mera Box is a web application built to provide users with a seamless and efficient solution for [describe the main purpose or functionality of your application]. By leveraging the power of Next.js, React.js, Firebase, NextAuth, Google OAuth, Tailwind, and DailyUI, Mera Box offers a feature-rich experience that caters to [describe your target audience and their needs that your application fulfills].
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Authentication](#authentication)
+- [UI Design](#ui-design)
+- [Contributing](#contributing)
+- [License](#license)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Mera Box offers a range of powerful features designed to enhance your file management experience:
 
-### `npm test`
+1. **Search youtube videos:** Easily create folders to organize your files efficiently. Upload files directly into these folders for a structured storage approach.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. **Nested Folders:** Take advantage of nested folders to establish a hierarchical structure that matches your workflow. Subdivide your content into multiple levels of organization.
 
-### `npm run build`
+3. **Usage Limits and File Categorization:** Gain insights into your storage usage by viewing usage limits specific to different file categories. This feature helps you manage your resources effectively.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4. **Google Authentication:** Seamlessly log in using your Google account. This secure authentication method ensures your data remains protected and accessible only to you.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+5. **File Management:** Take control of your files with the ability to delete and download them as needed. This feature empowers you to maintain an up-to-date and relevant collection of files.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Whether you're an individual looking for streamlined file management or a professional seeking an organized workspace, Mera Box's intuitive interface and feature set provide the tools you need to stay on top of your digital assets. Try Mera Box today and revolutionize the way you manage your files!
 
-### `npm run eject`
+### Technologies Used
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Youtube clone is built with the following technologies:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- React.js
+- Mateiral UI
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Getting Started
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To get started with Mera Box, follow these steps:
 
-## Learn More
+### Installation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Clone the repository: `git clone https://github.com/Jayant-001/Video-Streaming-Web-App`
+2. Navigate to the project directory: `cd Video-Streaming-Web-App`
+3. Install the dependencies: `npm install`
+4. Start the server: `npm run start`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Usage
 
-### Code Splitting
+[Provide instructions on how to run and use your application]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Authentication
 
-### Analyzing the Bundle Size
+Mera Box implements secure authentication using NextAuth and Google OAuth. Users can log in using their Google accounts, ensuring a seamless and secure experience.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## UI Design
 
-### Making a Progressive Web App
+The user interface of Mera Box is designed with attention to detail and usability in mind. The application follows the principles of DailyUI to deliver a visually appealing and user-friendly interface.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Contributing
 
-### Advanced Configuration
+We welcome contributions from the community that can help improve Mera Box. If you'd like to contribute, please follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature-name`
+3. Make your changes and commit them.
+4. Push to your forked repository.
+5. Create a pull request detailing your changes.
 
-### Deployment
+## 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Give Mera Box a try and [mention a call-to-action encouraging users to check out or use your application]! If you encounter any issues or have suggestions, feel free to open an issue on the repository. Your feedback is highly appreciated.
 
-### `npm run build` fails to minify
+Connect with us:
+- Email: [jayant.gupta.dln@gmail.com](jayant.gupta.dln@gmail.com)
+- LinkedIn: [@jayant-cse](https://www.linkedin.com/in/jayant-cse/)
+- Website: [https://jayant-gupta.vercel.app](https://jayant-gupta.vercel.app)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Let's revolutionize [mention your application's mission or vision] together!
